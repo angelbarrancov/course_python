@@ -1,7 +1,10 @@
-a = 5
+a = 5  # My commment
 
 
 def f(x):
+    """
+    A docstring
+    """
     return x * x
 
 
